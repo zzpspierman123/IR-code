@@ -20,5 +20,5 @@ At the sending, we use ADC to collect analog signal and transform it to be digit
 
 
 
-⭐️ From [@anandmainali](https://github.com/anandmainali)
+⭐️ From [@zzpspierman123](https://github.com/zzpspierman123)
 
