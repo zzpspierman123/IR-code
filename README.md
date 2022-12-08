@@ -4,7 +4,7 @@
 </p>
 
 ## Hi there 👋 I'm [ZhouZhanPeng](https://github.com/zzpspierman123)
-> a Sophomore Student in [HuaiHua University](http://www.hhtc.edu.cn/?affichelist-2)
+> A Sophomore Student in [HuaiHua University](http://www.hhtc.edu.cn/?affichelist-2)
 
 ## About The Project
 <img src="https://komarev.com/ghpvc/?username=zzpspierman123" alt="zzpspierman123" />
